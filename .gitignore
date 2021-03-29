@@ -1,0 +1,5 @@
+#Files that will be ignored by Git
+/.idea/
+ADPassignment1Testing.iml
+pom.xml
+
