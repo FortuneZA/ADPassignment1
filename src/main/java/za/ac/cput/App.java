@@ -6,8 +6,12 @@ package za.ac.cput;
  */
 public class App 
 {
+    public static int Calculator(int a,int b)
+    {
+        return a*b; //(Multiplication)
+    }
     public static void main( String[] args )
     {
-        System.out.println( "This is a test!" );
+        System.out.println(  );
     }
 }
