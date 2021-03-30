@@ -6,12 +6,43 @@ package za.ac.cput;
  */
 public class App 
 {
-    public static int Calculator(int a,int b)
-    {
-        return a*b; //(Multiplication)
+
+private String name;
+private long id;
+
+    //Getters
+
+    public String getName() {
+        return name;
     }
-    public static void main( String[] args )
+
+    public long getId() {
+        return id;
+    }
+
+
+    //Setters
+
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    @Override
+    public String toString() {
+        return "App{" +
+                "name='" + name + '\'' +
+                ", id=" + id +
+                '}';
+    }
+
+    public static void main(String[] args )
     {
-        System.out.println(  );
+            App run = new App();
+            run.toString();
     }
 }
