@@ -2,7 +2,7 @@ package za.ac.cput;
 
 /**
  * Author: Mathew Fortuin - 219069514
- *Main class
+ *Main class: Small domain that stores information
  */
 public class App 
 {
