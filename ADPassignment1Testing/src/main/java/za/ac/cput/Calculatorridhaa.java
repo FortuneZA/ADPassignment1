@@ -13,14 +13,12 @@ public class Calculatorridhaa {
 
     public void countToFive()
     {
-
         try {
-            Thread.currentThread().sleep(5000);
+            Thread.currentThread().sleep(3000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("Five Seconds Has Passed");
-
+        System.out.println("Three Seconds Has Passed");
     }
 
 }

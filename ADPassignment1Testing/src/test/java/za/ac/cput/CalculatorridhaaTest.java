@@ -44,7 +44,7 @@ public class CalculatorridhaaTest {
     }
 
     //timeout test
-    @Test(timeout = 6000)
+    @Test(timeout = 4000)
     public void testTimeout()
     {
         cal3.countToFive();
