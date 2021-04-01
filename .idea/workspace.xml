@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ce99b12-0b9d-4221-a3ae-660ba29e6c81" name="Default Changelist" comment="first commmit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADPassignment1Testing/src/test/java/za/ac/cput/ADPassignment1/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADPassignment1Testing/src/test/java/za/ac/cput/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ADPassignment1Testing/src/test/java/za/ac/cput/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADPassignment1Testing/target/classes/za/ac/cput/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/ADPassignment1Testing/target/classes/za/ac/cput/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADPassignment1Testing/target/test-classes/za/ac/cput/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ADPassignment1Testing/target/test-classes/za/ac/cput/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="218328591" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="218328591" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qYF3PgfSXbK5JhRPacde9xpKkS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="za.ac.cput.ADPassignment1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeTest.testTimeouts">
+    <configuration name="EmployeeTest.disableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ADPassignment1Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.EmployeeTest" />
+      <option name="METHOD_NAME" value="disableTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ADPassignment1Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.EmployeeTest" />
+      <option name="METHOD_NAME" value="testEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.testFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ADPassignment1Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.EmployeeTest" />
+      <option name="METHOD_NAME" value="testFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.testTimeouts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ADPassignment1Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.EmployeeTest" />
+      <option name="METHOD_NAME" value="testTimeouts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.timeoutNotExceeded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ADPassignment1Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1" />
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.ADPassignment1.za.ac.cput.ADPassignment1.EmployeeTest" />
+      <option name="METHOD_NAME" value="timeoutNotExceeded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeTest.timeoutNotExceeded" />
+        <item itemvalue="JUnit.EmployeeTest.testTimeouts" />
+        <item itemvalue="JUnit.EmployeeTest.testFail" />
+        <item itemvalue="JUnit.EmployeeTest.testEquality" />
+        <item itemvalue="JUnit.EmployeeTest.disableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ce99b12-0b9d-4221-a3ae-660ba29e6c81" name="Default Changelist" comment="" />
+      <created>1617248417269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617248417269</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commmit">
+      <created>1617249478281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617249478281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commmit" />
+    <MESSAGE value="first commmit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commmit" />
+  </component>
+</project>

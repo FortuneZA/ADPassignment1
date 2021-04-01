@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_01_04_2021_06_24_[Default_Changelist]1" date="1617251097908" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_04_2021_06_24_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 01/04/2021 06:24 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="ADPassignment1Testing/target/classes/za/ac/cput/App.class" />
+    <option name="AFTER_PATH" value="ADPassignment1Testing/target/classes/za/ac/cput/App.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_04_2021_06_24_[Default_Changelist]1/App.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="ADPassignment1Testing/target/test-classes/za/ac/cput/AppTest.class" />
+    <option name="AFTER_PATH" value="ADPassignment1Testing/target/test-classes/za/ac/cput/AppTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_04_2021_06_24_[Default_Changelist]1/AppTest.class" />
+  </binary>
+</changelist>
